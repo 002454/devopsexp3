@@ -1,4 +1,5 @@
-hello whatsup guys this is registration program
+hello whatsup guys
+hi guys
 <! DOCTYPE htnl>
 <html>
 <head>
